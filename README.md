@@ -1,0 +1,1 @@
+Design an inventory management system for a retail or warehouse business. The system tracks stock levels, manages suppliers, handles purchase orders, triggers reorder alerts, and maintains a complete audit trail of all stock movements
